@@ -1,0 +1,17 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页
+		{
+			"path": "pages/leftCategory/leftCategory",
+			"style": {
+				"navigationBarTitleText": "侧边分类导航"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "侧边分类导航",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"navigationStyle":"custom",
+		"backgroundColor": "#F8F8F8"
+	}
+}
